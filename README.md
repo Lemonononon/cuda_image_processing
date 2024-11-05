@@ -11,3 +11,6 @@ Cuda kernels for deep learning pre/post image processing.
 
 final
  - [ ] warp affine
+
+## References
+- [cuda-image-preprocess](https://github.com/emptysoal/cuda-image-preprocess)
