@@ -5,7 +5,8 @@ Cuda kernels for deep learning pre/post image processing.
  - [x] letterbox
  - [ ] resize
  - [ ] crop
- - [ ] normalize
+ - [x] normalize
+ - [x] cvtColor
  - [ ] nms
  - [ ] iou
 

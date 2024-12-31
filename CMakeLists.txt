@@ -12,3 +12,7 @@ FIND_PACKAGE(OpenCV REQUIRED)
 INCLUDE_DIRECTORIES(${OpenCV_INCLUDE_DIRS})
 
 add_subdirectory(letterbox)
+add_subdirectory(warpaffine)
+add_subdirectory(resize)
+add_subdirectory(norm)
+add_subdirectory(cvtcolor)
